@@ -29,7 +29,7 @@ body {
     }
 
     nav li {
-        display: inline-block;
+        display: flexbox
         
 
     }
